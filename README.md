@@ -1,1 +1,1 @@
-# panel-v.1
+# Panel v.1
